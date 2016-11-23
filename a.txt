@@ -1,0 +1,35 @@
+$GetCurrent/
+$Recycle.Bin/
+$SysReset/
+apps/
+bootmgr
+BOOTNXT
+Config.Msi/
+DBAR_Ver.txt
+DELL/
+dell.sdr
+Documents and Settings@
+Drivers/
+hello/
+hello-git/
+hiberfil.sys
+Intel/
+KSXT/
+MSOCache/
+nhce/
+NVIDIA/
+pagefile.sys
+PerfLogs/
+Program Files/
+Program Files (x86)/
+ProgramData/
+RavBin/
+swapfile.sys
+System Recovery/
+System Volume Information/
+TimeEventNSIS.log
+Users/
+WEXAM/
+Windows/
+Windows.old/
+wuc.wuc
